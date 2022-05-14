@@ -1,4 +1,7 @@
+## Hi! I'm a web developer!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperVusal&theme=blue-green)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=DeveloperVusal)
 
 <!--
 **DeveloperVusal/DeveloperVusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
