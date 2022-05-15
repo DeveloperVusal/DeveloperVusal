@@ -1,4 +1,4 @@
-# Hi <img src="https://user-images.githubusercontent.com/75476607/120882203-c6950a80-c5de-11eb-8cba-a0fe21115c2e.gif" height="30px"/>! I'm a web developer!
+# Hi <img src="https://user-images.githubusercontent.com/75476607/120882203-c6950a80-c5de-11eb-8cba-a0fe21115c2e.gif" height="30px"/> I'm a web developer!
 
 ## My stack
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
